@@ -1,0 +1,15 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "xable.clutter.eggs.small.one",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Clutter/eggs/smallEasterEgg1.qb"
+}

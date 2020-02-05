@@ -1,0 +1,19 @@
+{
+    "collision": true,
+    "__inherits": "staxel/tileObject/moveable.config",
+    "code": "xable.clutter.crafting.lumber",
+    "categories": ["furniture"],
+    "compound": {"size": {
+        "x": 3,
+        "y": 1,
+        "z": 1
+    }},
+    "voxels": "mods/Xable's Clutter/crafting/Lumber.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 60,
+        "value": 100
+    },
+    "searchable": true
+}

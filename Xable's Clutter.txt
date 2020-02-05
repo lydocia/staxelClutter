@@ -1,0 +1,25 @@
+[b]Description[/b]
+
+Adds decorative objects, both models from the game and custom models. All with one purpose: cluttering up your game.
+
+[b]Contents[/b]
+Bottles
+Boxes
+Cloth & Fabrics
+Crafting supplies
+Eggs
+Electronics & Appliances
+Farm
+Jewellery
+Mugs
+Paper supplies
+Tools
+Toys
+Trash
+Wagons & Cars
+Workshop & garage
+
+Read the full documentation [url=https://www.lydocia.com/mods/staxel-mods/xables-clutter/]here[/url]. 
+
+[b]Links[/b]
+[url=https://www.lydocia.com]website[/url] | [url=https://discord.gg/YPhAFKN]Discord[/url] | [url=https://www.patreon.com/lydocia]Patreon[/url]

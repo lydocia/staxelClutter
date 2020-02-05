@@ -1,0 +1,15 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "xable.clutter.wagons.wagon1",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 340,
+    "value": 500
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Clutter/wagons/Wagon1.qb"
+}

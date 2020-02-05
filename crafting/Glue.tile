@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "xable.clutter.crafting.glue",
+  "collision": true,
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },  
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Clutter/crafting/Glue.qb"
+}

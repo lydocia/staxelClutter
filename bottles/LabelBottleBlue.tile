@@ -1,0 +1,13 @@
+{
+    "__inherits": "staxel/tileObject/moveable.config",
+    "code": "xable.clutter.bottles.labelblue",
+    "categories": ["furniture"],
+    "voxels": "mods/Xable's Clutter/bottles/LabelBottleBlue.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 60,
+        "value": 100
+    },
+    "searchable": true
+}

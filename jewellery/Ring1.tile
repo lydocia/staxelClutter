@@ -1,0 +1,15 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "xable.clutter.jewellery.ring1",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Clutter/jewellery/Ring1.qb"
+}

@@ -1,0 +1,342 @@
+language.code=en-GB
+language=English
+
+xable.clutter.bathroom.radiator.name=Radiator
+xable.clutter.bathroom.radiator.description=A radiator to keep your bathroom warm.
+
+xable.clutter.books.blue.name=Blue Book
+xable.clutter.books.blue.description=A blue book, perfect for decoration, or maybe even reading.
+
+xable.clutter.books.farm.name=Farming Book
+xable.clutter.books.blue.description=A book on farming, perfect for decoration, or maybe even reading.
+
+xable.clutter.books.game.name=Gaming Book
+xable.clutter.books.blue.description=A book on gaming, perfect for decoration, or maybe even reading.
+
+xable.clutter.books.red.name=Red Book
+xable.clutter.books.blue.description=A red book, perfect for decoration, or maybe even reading.
+
+xable.clutter.books.yellow.name=Yellow Book
+xable.clutter.books.blue.description=A yellow book, perfect for decoration, or maybe even reading.
+
+xable.clutter.bottles.fish.name=Fish Bottle
+xable.clutter.bottles.fish.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.greencecile.name=Green Cecile Bottle
+xable.clutter.bottles.greencecile.description=A stylish bottle to decorate your home with. Cecile would like this one.
+
+xable.clutter.bottles.honey.name=Honey Bottle
+xable.clutter.bottles.honey.description=This honey isn't edible anymore. It's just for decoration now.
+
+xable.clutter.bottles.hooked.name=Hooked Bottle
+xable.clutter.bottles.hooked.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.labelblue.name=Blue Label Bottle
+xable.clutter.bottles.labelblue.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.labelgrey.name=Grey Label Bottle
+xable.clutter.bottles.labelgrey.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.labelred.name=Red Label Bottle
+xable.clutter.bottles.labelred.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.labelyellow.name=Yellow Label Bottle
+xable.clutter.bottles.labelyellow.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.milk.name=Milk Bottle
+xable.clutter.bottles.milk.description=The milk in this bottle went sour long ago, but at least it looks pretty.
+
+xable.clutter.bottles.pinkcecile.name=Pink Cecile Bottle
+xable.clutter.bottles.pinkcecile.description=A stylish bottle to decorate your home with. Cecile would like this one.
+
+xable.clutter.bottles.purple.name=Purple Bottle
+xable.clutter.bottles.purple.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.ship.name=Ship Bottle
+xable.clutter.bottles.ship.description=There used to be a ship inside this bottle, but it broke.
+
+xable.clutter.bottles.syrup.name=Syrup Bottle
+xable.clutter.bottles.syrup.description=The syrup in this bottle has been long gone. Now it's only decorative.
+
+xable.clutter.bottles.vial.name=Vial Bottle
+xable.clutter.bottles.vial.description=A stylish bottle to decorate your home with.
+
+xable.clutter.bottles.yellow.name=Yellow Bottle
+xable.clutter.bottles.yellow.description=A stylish bottle to decorate your home with.
+
+xable.clutter.box.giftred.name=Red Gift
+xable.clutter.box.giftred.description=A neatly wrapped red gift.
+
+xable.clutter.box.giftset.name=Gift Set
+xable.clutter.box.giftset.description=A set of gift boxes (with nothing inside, but don't tell anyone).
+
+xable.clutter.box.lucky.name=Unlucky Box
+xable.clutter.box.lucky.description=This lucky box doesn't open, so I guess it's an unlucky box?
+
+xable.clutter.box.parcel.name=Parcel
+xable.clutter.box.parcel.description=This parcel box has been long forgotten. Who knows what's inside?
+
+xable.clutter.box.present.name=Present
+xable.clutter.box.present.description=A present that's probably not what you asked Santa for.
+
+xable.clutter.cloth.darkblue.name=Dark Blue Cloth
+xable.clutter.cloth.darkblue.description=A roll of brightly coloured cloth.
+
+xable.clutter.cloth.green.name=Green Cloth
+xable.clutter.cloth.green.description=A roll of brightly coloured cloth.
+
+xable.clutter.cloth.lightblue.name=Light Blue Cloth
+xable.clutter.cloth.lightblue.description=A roll of brightly coloured cloth.
+
+xable.clutter.cloth.orange.name=Orange Cloth
+xable.clutter.cloth.orange.description=A roll of brightly coloured cloth.
+
+xable.clutter.cloth.pink.name=Pink Cloth
+xable.clutter.cloth.pink.description=A roll of brightly coloured cloth.
+
+xable.clutter.cloth.purple.name=Purple Cloth
+xable.clutter.cloth.purple.description=A roll of brightly coloured cloth.
+
+xable.clutter.cloth.red.name=Red Cloth
+xable.clutter.cloth.red.description=A roll of brightly coloured cloth.
+
+xable.clutter.cloth.yellow.name=Yellow Cloth
+xable.clutter.cloth.yellow.description=A roll of brightly coloured cloth.
+
+xable.clutter.electronics.bunnyphoneblue.name=Blue Bunny Phone
+xable.clutter.electronics.bunnyphoneblue.description=Now you no longer have to pretend you couldn't find theirs to have one yourself...
+
+xable.clutter.electronics.bunnyphonepink.name=BunnyPhonePink
+xable.clutter.electronics.bunnyphonepink.description=Now you no longer have to pretend you couldn't find theirs to have one yourself...
+
+xable.clutter.electronics.bunnyphoneyellow.name=BunnyPhoneYellow
+xable.clutter.electronics.bunnyphoneyellow.description=Now you no longer have to pretend you couldn't find theirs to have one yourself...
+
+xable.clutter.electronics.voxelboyblue.name=Blue Voxelboy
+xable.clutter.electronics.voxelboyblue.description=Now you no longer have to pretend you couldn't find theirs to have one yourself...
+
+xable.clutter.electronics.voxelboyyellow.name=Yellow Voxelboy
+xable.clutter.electronics.voxelboyyellow.description=Now you no longer have to pretend you couldn't find theirs to have one yourself...
+
+xable.clutter.food.alestew.name=Ale and Stew
+xable.clutter.food.alestew.description=A nice meal to put on your table and never eat.
+
+xable.clutter.food.coffee.name=Coffee
+xable.clutter.food.coffee.description=A hot coffee to put on your table and never drink.
+
+xable.clutter.food.grilledfish.name=Grilled Fish
+xable.clutter.food.grilledfish.description=A nice meal to put on your table and never eat.
+
+xable.clutter.games.chessboard.name=Chessboard
+xable.clutter.games.chessboard.description=A chessboard that is way too small for all those chess pieces you bought.
+
+xable.clutter.jewellery.necklace1.name=Silver Necklace
+xable.clutter.jewellery.necklace1.description=A necklace that's too pretty to wear.
+
+xable.clutter.jewellery.necklace2.name=Gold Necklace
+xable.clutter.jewellery.necklace2.description=A necklace that's too pretty to wear.
+
+xable.clutter.jewellery.ring1.name=Silver Ring
+xable.clutter.jewellery.ring1.description=A ring in a box.
+
+xable.clutter.jewellery.ring2.name=Gold Ring
+xable.clutter.jewellery.ring2.description=A ring in a box.
+
+xable.clutter.mugs.blue.name=Blue Mug
+xable.clutter.mugs.blue.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.mugs.orange.name=Orange Mug
+xable.clutter.mugs.orange.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.mugs.purple.name=Purple Mug
+xable.clutter.mugs.purple.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.mugs.red.name=Red Mug
+xable.clutter.mugs.red.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.mugs.tallblue.name=Tall Blue Mug
+xable.clutter.mugs.tallblue.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.mugs.tallgreen.name=Tall Green Mug
+xable.clutter.mugs.tallgreen.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.mugs.tallpink.name=Tall Pink Mug
+xable.clutter.mugs.tallpink.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.mugs.tallyellow.name=Tall Yellow Mug
+xable.clutter.mugs.tallyellow.description=A decorative mug. Pretty sure it doesn't hold liquids very well.
+
+xable.clutter.paper.alua.name=Alua Envelope
+xable.clutter.paper.alua.description=An envelope with a letter inside.
+
+xable.clutter.paper.blue.name=Blue Envelope
+xable.clutter.paper.blue.description=An envelope with a letter inside.
+
+xable.clutter.paper.leif.name=Leif Envelope
+xable.clutter.paper.leif.description=An envelope with a letter inside.
+
+xable.clutter.paper.pink.name=Pink Envelope
+xable.clutter.paper.pink.description=An envelope with a letter inside.
+
+xable.clutter.paper.white.name=White Envelope
+xable.clutter.paper.white.description=An envelope with a letter inside.
+
+xable.clutter.paper.yellow.name=Yellow Envelope
+xable.clutter.paper.yellow.description=An envelope with a letter inside.
+
+xable.clutter.paper.news.name=Newspaper
+xable.clutter.paper.news.description=An old newspaper.
+
+xable.clutter.paper.photo.name=Photograph
+xable.clutter.paper.photo.description=A photograph of a strange animal.
+
+xable.clutter.socks.blue.name=Blue Sock
+xable.clutter.socks.blue.description=A blue sock, the other one is missing.
+
+xable.clutter.socks.pink.name=Pink Sock
+xable.clutter.socks.pink.description=A pink sock, the other one is missing.
+
+xable.clutter.socks.yellow.name=Yellow Sock
+xable.clutter.socks.yellow.description=A yellow sock, the other one is missing.
+
+xable.clutter.tools.broom.name=Broom
+xable.clutter.tools.broom.description=Put it against the wall and pretend you were just sweeping when someone unexpectedly visits.
+
+xable.clutter.tools.fishingtools.name=Fishing Tools
+xable.clutter.tools.fishingtools.description=Some fishing tools because, unlike Riah, you can't fish with your hands alone.
+
+xable.clutter.toys.teddy.name=Teddy Bear
+xable.clutter.toys.teddy.description=A cute teddy bear. Rosemary has one just like it.
+
+xable.clutter.trash.apple.name=Apple Core
+xable.clutter.trash.apple.description=Yeah, this apple is cpmpletely eaten. Why is this not in the trash?
+
+xable.clutter.trash.emptybottle1.name=Empty Bottle
+xable.clutter.trash.emptybottle1.description=An empty bottle. Why is this not in the trash?
+
+xable.clutter.trash.emptybottle2.name=Empty Bottle
+xable.clutter.trash.emptybottle2.description=An empty bottle. Why is this not in the trash?
+
+xable.clutter.trash.plasticbag1.name=Trash Bag
+xable.clutter.trash.plasticbag1.description=A trash bag. Why is this not in the trash?
+
+xable.clutter.trash.plasticbag2.name=Torn Trash Bag
+xable.clutter.trash.plasticbag2.description=A trash bag. And eww, some of it is leaking out! Why is this not in the trash?
+
+xable.clutter.trash.smashedbottle.name=Smashed Bottle
+xable.clutter.trash.smashedbottle.description=A smashed bottle. Why is this not in the trash?
+
+xable.clutter.trash.tincan.name=Empty Tin Can
+xable.clutter.trash.tincan.description=An empty tin can. Why is this not in the trash?
+
+xable.clutter.treasure.treasure1.name=Treasure Chest
+xable.clutter.treasure.treasure1.description=It's empty, but the chest is still pretty cool.
+
+xable.clutter.treasure.treasure2.name=Treasure Chest
+xable.clutter.treasure.treasure2.description=It's empty, but the chest is still pretty cool.
+
+xable.clutter.treasure.treasure3.name=Treasure Chest
+xable.clutter.treasure.treasure3.description=It's empty, but the chest is still pretty cool.
+
+xable.clutter.wagons.tractor.name=Tractor
+xable.clutter.wagons.tractor.description=This tractor doesn't drive anymore, but it looks good in front of your farm anyway.
+
+xable.clutter.wagons.wagon1.name=Wagon
+xable.clutter.wagons.wagon1.description=This wagon isn't occupied by a merchant.
+
+xable.clutter.wagons.wagon2.name=Wagon
+xable.clutter.wagons.wagon2.description=This wagon isn't occupied by a merchant.
+
+xable.clutter.wagons.wagon3.name=Wagon
+xable.clutter.wagons.wagon3.description=This wagon isn't occupied by a merchant.
+
+xable.clutter.wagons.wagon4.name=Wagon
+xable.clutter.wagons.wagon4.description=This wagon isn't occupied by a merchant.
+
+xable.clutter.wagons.wagon5.name=Wagon
+xable.clutter.wagons.wagon5.description=This wagon isn't occupied by a merchant.
+
+xable.clutter.wagons.wagon6.name=Wagon
+xable.clutter.wagons.wagon6.description=This wagon isn't occupied by a merchant.
+
+xable.clutter.wagons.wagon7.name=Wagon
+xable.clutter.wagons.wagon7.description=This wagon isn't occupied by a merchant.
+
+xable.clutter.eggs.one.name=Easter Egg 1
+xable.clutter.eggs.one.description=A colourful Easter egg.
+
+xable.clutter.eggs.two.name=Easter Egg 2
+xable.clutter.eggs.two.description=A colourful Easter egg.
+
+xable.clutter.eggs.three.name=Easter Egg 3
+xable.clutter.eggs.three.description=A colourful Easter egg.
+
+xable.clutter.eggs.four.name=Easter Egg 4
+xable.clutter.eggs.four.description=A colourful Easter egg.
+
+xable.clutter.eggs.five.name=Easter Egg 5
+xable.clutter.eggs.five.description=A colourful Easter egg.
+
+xable.clutter.eggs.small.one.name=Easter Egg 1
+xable.clutter.eggs.small.one.description=A colourful Easter egg.
+
+xable.clutter.eggs.small.two.name=Easter Egg 2
+xable.clutter.eggs.small.two.description=A colourful Easter egg.
+
+xable.clutter.eggs.small.three.name=Easter Egg 3
+xable.clutter.eggs.small.three.description=A colourful Easter egg.
+
+xable.clutter.eggs.small.four.name=Easter Egg 4
+xable.clutter.eggs.small.four.description=A colourful Easter egg.
+
+xable.clutter.eggs.small.five.name=Easter Egg 5
+xable.clutter.eggs.small.five.description=A colourful Easter egg.
+
+xable.clutter.eggs.chicken.name=Decorative Chicken Egg
+xable.clutter.eggs.chicken.description=A hard-boiled chicken egg used for decoration.
+
+xable.clutter.eggs.yoshi.name=Yoshi Egg
+xable.clutter.eggs.yoshi.description=Mario, is that really you?!
+
+xable.clutter.eggs.small.gold.name=Small Golden Egg
+xable.clutter.eggs.small.gold.description=An egg made of pure gold.
+
+xable.clutter.eggs.gold.name=Golden Egg
+xable.clutter.eggs.gold.description=Woah, the goose this came out of must be HUGE!
+
+xable.clutter.eggs.fossil.name=Fossil Egg
+xable.clutter.eggs.fossil.description=Extracted from a centuries old fossil.
+
+xable.clutter.crafting.finelumber.name=Fine Lumber
+xable.clutter.crafting.finelumber.description=Uncut fine lumber to put down and forget about.
+
+xable.clutter.crafting.lumber.name=Lumber
+xable.clutter.crafting.lumber.description=Uncut lumber to put down and forget about.
+
+xable.clutter.crafting.glue.name=Bottles of Glue
+xable.clutter.crafting.glue.description=With this in stock, you won't run out of glue anytime soon.
+
+xable.clutter.crafting.haybales.name=Hay Bales
+xable.clutter.crafting.haybales.description=Put some out with the cows.
+
+xable.clutter.crafting.metalbands.name=Metal Bands
+xable.clutter.crafting.metalbands.description=Metallica, Iron Maiden and other metal bands stacked for decoration.
+
+xable.clutter.crafting.metalsheets.name=Metal Sheets
+xable.clutter.crafting.metalsheets.description=A stack of metal sheets you'll never use.
+
+xable.clutter.crafting.mortar.name=Mortar
+xable.clutter.crafting.mortar.description=Just like grandpa used to have.
+
+xable.clutter.crafting.nails.name=Boxes of Nails
+xable.clutter.crafting.nails.description=Can't hurt to have a few spare boxes.
+
+xable.clutter.crafting.pickets.name=Pickets
+xable.clutter.crafting.pickets.description=Small pieces of woods that will make great pickets some day.
+
+xable.clutter.crafting.varnish.name=Buckets of Varnish
+xable.clutter.crafting.varnish.description=Assorted buckets of varnish.
+
+xable.clutter.crafting.wires.name=Knot of Wires
+xable.clutter.crafting.wires.description=These tangled up in the wire drawer.
+

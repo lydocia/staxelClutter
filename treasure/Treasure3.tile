@@ -1,0 +1,15 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "xable.clutter.treasure.treasure3",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 340,
+    "value": 500
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Clutter/treasure/Treasure3.qb"
+}
